@@ -1,5 +1,6 @@
 # RaspberryPi_Arduino_Serial
 
+!(Wiring Diagram)[images/wiring.png]
 Serial interface with Raspberry Pi and Arduino
 
 Instructions:
